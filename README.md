@@ -106,6 +106,3 @@ task-manager-api/
 - Unit and integration tests
 - Deployment to cloud (Heroku, AWS, etc.)
 
-## License
-
-MIT
